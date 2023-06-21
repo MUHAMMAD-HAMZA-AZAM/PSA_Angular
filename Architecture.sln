@@ -22,6 +22,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Angular_App", "Angular_App", "{3FB1DED7-D1CA-43E8-A45D-5A76228A2479}"
 	ProjectSection(SolutionItems) = preProject
 		Class1.cs = Class1.cs
+		Demo.cs = Demo.cs
 	EndProjectSection
 EndProject
 Global
